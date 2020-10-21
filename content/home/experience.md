@@ -18,14 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Manager, IT and Web Development"  
+  company = "TeamWorld"
+  company_url = "http://www.teamworld.com"
+  location = "New York"
+  date_start = "2017-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsible for oversight of the hardware and software assets of the company and the creation and maintenance of applications built in-house.
+  """
+[[experience]]
+  title = "Business Application Developer"  
+  company = "TeamWorld"
+  company_url = "http://www.teamworld.com"
+  location = "New York"
+  date_start = "2014-11-01"
+  date_end = "2017-05-01"
+  description = """
+  Developed internal business management applications on LAMP stacks and in the SalesForce Apex language.
+  Responsibilities included:
   
   * Analysing
   * Modelling
@@ -33,12 +44,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Web Administrator"
+  company = "TeamWorld"
+  company_url = "http://www.teamworld.com"
+  location = "New York"
+  date_start = "2008-08-01"
+  date_end = "2014-11-01"
+  description = """Curated and managed ~60 ecommerce websites along with internal software systems"""
 
 +++

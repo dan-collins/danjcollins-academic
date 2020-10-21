@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "go-blue"
+  icon_pack = "custom"
+  name = "GoLang"
+  description = "Actively incorporating this into current projects"
+  
+[[feature]]
+  icon = "php"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "PHP"
+  description = "&gt;10 years of experience from v4 - v7"  
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "html5"
+  icon_pack = "fab"
+  name = "HTML"
+  description = "Can't ignore the front end"
 
 # Uncomment to use emoji icons.
 # [[feature]]
