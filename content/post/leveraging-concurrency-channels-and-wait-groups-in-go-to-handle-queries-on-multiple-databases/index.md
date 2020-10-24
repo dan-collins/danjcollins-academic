@@ -20,3 +20,11 @@ There are a few certain things that this specific implementation relies on. With
 
 1. The data across the various databases existed in the same structure/tables per instance.
 2. All of the database instances can be reached via TCP on a specific port using a username and password for authentication.
+
+#### Concepts
+
+I rely on 3 main concepts for this implementation (you can probably guess them from the title):
+
+1. **Concurrency**
+
+   One of the most important things was that this had to be fast. I didn't want the data merge that I was doing to take 20 minutes to run. In order to get that much data quickly, I relied on Go's great concurrency go
