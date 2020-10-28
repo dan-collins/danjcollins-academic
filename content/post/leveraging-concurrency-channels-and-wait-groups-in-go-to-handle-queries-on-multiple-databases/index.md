@@ -1,9 +1,9 @@
 ---
-title: Leveraging Concurrency, Channels, and Wait Groups in Go to Handle Queries
-  on Multiple Databases
+title: Leveraging Concurrency, Channels, and Error Groups in Go to Handle
+  Queries on Multiple Databases
 subtitle: Go can help you get information from multiple sources...quickly!
-date: 2020-10-30T17:13:11.227Z
-draft: false
+date: 2020-10-28T14:24:28.689Z
+draft: true
 featured: false
 image:
   filename: featured
@@ -27,4 +27,10 @@ I rely on 3 main concepts for this implementation (you can probably guess them f
 
 1. **Concurrency**
 
-   One of the most important things was that this had to be fast. I didn't want the data merge that I was doing to take 20 minutes to run. In order to get that much data quickly, I relied on Go's great concurrency go
+   One of the most important things was that this had to be fast. I didn't want the data merge that I was doing to take 20 minutes to run. In order to get that much data quickly, I relied on Go's great concurrency goroutine functionality. 
+2. **Channels**
+
+   When you use concurrency in Go, you have to be careful to use the right data structures. Channels are great ways to safely persist data among all the concurrent goroutines that are running. Buffered channels also help to be used like a semaphore concept to limit the total number of concurrent goroutines that can run at a time.
+3. **Error Groups**
+
+   When you work concurrently, errors can be hard to manage because there are many isolated tasks being completed that are not necessarily related. Go luckily has a nice Error Group (<https://pkg.go.dev/golang.org/x/sync/errgroup>) library for managing errors that occur in these concurrent processes.
