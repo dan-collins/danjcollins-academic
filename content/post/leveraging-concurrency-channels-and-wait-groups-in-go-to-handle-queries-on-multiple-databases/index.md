@@ -34,3 +34,5 @@ I rely on 3 main concepts for this implementation (you can probably guess them f
 3. **Error Groups**
 
    When you work concurrently, errors can be hard to manage because there are many isolated tasks being completed that are not necessarily related. Go luckily has a nice Error Group (<https://pkg.go.dev/golang.org/x/sync/errgroup>) library for managing errors that occur in these concurrent processes.
+
+#### Implementation
