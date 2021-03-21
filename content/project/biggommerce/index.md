@@ -17,6 +17,7 @@ links:
 image:
   filename: logo80.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
+  alt_text: Gopher reading a bigcommerce.com book.
 ---
 If you want to interact with the BigCommerce rest API in a golang project, this library should help you out. The plan is to eventually build it out for all endpoints/resources but for now most of the [orders](https://developer.bigcommerce.com/api-reference/store-management/orders/) endpoint is addressed.
