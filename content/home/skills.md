@@ -24,13 +24,31 @@ subtitle = ""
   icon = "php"
   icon_pack = "fab"
   name = "PHP"
-  description = "&gt;10 years of experience from v4 - v7"  
+  description = "&gt;10 years of experience from v4 - v8"  
   
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
   description = "Can't ignore the front end"
+  
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "Experience with Vanilla, React, Vue, and Jquery"
+  
+[[feature]]
+  icon = "mysql"
+  icon_pack = "custom"
+  name = "MySQL"
+  description = "Persisting data in MySQL for &gt;10 years"
+  
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
+  description = "Controlling the source is key"
 
 # Uncomment to use emoji icons.
 # [[feature]]
