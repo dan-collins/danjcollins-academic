@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Manager of Web and IT Services
+role: Software Developer
 
 # Organizations/Affiliations
 organizations:
-- name: TeamWorld
-  url: "https://www.teamworld.com"
+- name: Visions Federal Credit Union
+  url: "https://visionsfcu.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include web development, hardware tinkering, and a lot of other stuff.
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Dan Collins is a software developer primarily interested in web technologies. He currently leads a team of technology professionals serving a promotional products company. This team is divided into two areas. One team is responsible for developing internal applications and public facing e-commerce websites. The other team handles the hardware and system maintenance used to power the daily operations of the company. 
+Dan Collins is a software developer primarily interested in web technologies. He is currently a software developer for a top-50 ranked credit union. He works as part of a team that is responsible for ensuring credit union member satisfaction and success in digital banking software.
 
