@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Developer"  
+  company = "Visions Federal Credit Union"
+  company_url = "https://visionsfcu.org"
+  location = "New York"
+  date_start = "2021-05-17"
+  date_end = ""
+  description = """
+  Responsible for creating and maintaining digital banking software features and enhancements.
+  """
+[[experience]]
   title = "Manager, IT and Web Development"  
   company = "TeamWorld"
   company_url = "http://www.teamworld.com"
   location = "New York"
   date_start = "2017-05-01"
-  date_end = ""
+  date_end = "2021-05-13"
   description = """
   Responsible for oversight of the hardware and software assets of the company and the creation and maintenance of applications built in-house.
   """
