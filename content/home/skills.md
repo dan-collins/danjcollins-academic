@@ -39,6 +39,12 @@ subtitle = ""
   description = "Experience with Vanilla, React, Vue, and Jquery"
   
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Actively producing enterprise software in Python 3"
+
+[[feature]]
   icon = "mysql"
   icon_pack = "custom"
   name = "MySQL"
