@@ -22,7 +22,9 @@ bio: My interests include web development, hardware tinkering, and a lot of othe
 
 interests:
 - Web Development
-- Programming
+- Software Development
+- Microservice Architecture
+- Cloud Native Development
 - Hardware/Electronics
 
 #education:
