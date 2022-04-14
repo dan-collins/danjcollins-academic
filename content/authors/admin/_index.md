@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Developer
+role: Digital Development Manager
 
 # Organizations/Affiliations
 organizations:
@@ -75,5 +75,5 @@ user_groups:
 - Visitors
 ---
 
-Dan Collins is a software developer primarily interested in web technologies. He is currently a software developer for a top-50 ranked credit union. He works as part of a team that is responsible for ensuring credit union member satisfaction and success in digital banking software.
+Dan Collins is a software developer primarily interested in web technologies. He is currently the digital development manager for a top-50 ranked credit union. He leads a team that is responsible for ensuring credit union member satisfaction and success in digital banking software.
 
