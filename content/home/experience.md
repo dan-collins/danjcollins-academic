@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = "https://visionsfcu.org"
   location = "New York"
   date_start = "2021-05-17"
-  date_end = ""
+  date_end = "2022-04-18"
   description = """
   Responsible for creating and maintaining digital banking software features and enhancements.
   """
