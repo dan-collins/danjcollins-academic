@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Digital Development Manager
+role: Director of Digital Development
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,9 @@ organizations:
 bio: My interests include web development, hardware tinkering, and a lot of other stuff.
 
 interests:
-- Web Development
 - Software Development
+- Web Development
+- Technical Leadership
 - Microservice Architecture
 - Cloud Native Development
 - Hardware/Electronics
@@ -75,5 +76,5 @@ user_groups:
 - Visitors
 ---
 
-Dan Collins is a software developer primarily interested in web technologies. He is currently the director of digital development for a top-50 ranked credit union. He leads a team that is responsible for ensuring credit union member satisfaction and success in digital banking software.
+Dan Collins is a software developer and technical leadership professional primarily interested in web-delivered digital technologies. He is currently the director of digital development for a top-50 ranked credit union. He leads a team that is responsible for ensuring credit union member satisfaction and success in digital banking software.
 
