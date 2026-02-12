@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "AVP of Digital"  
+  company = "Visions Federal Credit Union"
+  company_url = "https://visionsfcu.org"
+  location = "New York"
+  date_start = "2026-02-01"
+  date_end = ""
+  description = """
+  Provide oversight on all digital banking activities and/or functions while managing the credit union’s electronic presence; digital banking, public website, account origination, web reputation, and online membership to plan for risk and growth. Assist the VP/Chief Digital Officer in crafting the digital strategy of the credit union. Help plan and perform analysis of Digital activities/functions and execute on the subsequent design and implementation/improvement of new/existing Digital applications. Responsible for the Digital portion of updates to and maintenance of DevSecOps Framework and SDLC at the credit union.
+  """
+[[experience]]
   title = "Director of Digital Development"  
   company = "Visions Federal Credit Union"
   company_url = "https://visionsfcu.org"
   location = "New York"
   date_start = "2023-03-05"
-  date_end = ""
+  date_end = "2026-01-31"
   description = """
   Provide strategic direction/vision and oversight on all digital development activities and/or functions while managing the credit union’s digital development platforms and associated vendor services. Manages and supervises all in-house development functions related to Digital Banking, Public Website, Online Membership Application/Account Opening, Intranet, 3rd Party SDK’s/API’s and SaaS systems. Primary employee assigned to learn and apply new technologies and tools to our digital banking platform, mobile applications, websites and SaaS systems. Responsible for technical subject matter expertise on all application and website development. Responsible for interpretation of a multitude of API document sets and translate that to an enhancement in employee and member experience via digital systems. Responsible for the Digital portion of updates to and maintenance of DevSecOps Framework and SSDLC at the credit union.
   """
