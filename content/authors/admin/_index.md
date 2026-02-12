@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Director of Digital Development
+role: AVP of Digital
 
 # Organizations/Affiliations
 organizations:
