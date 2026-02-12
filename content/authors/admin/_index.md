@@ -76,5 +76,5 @@ user_groups:
 - Visitors
 ---
 
-Dan Collins is a software developer and technical leadership professional primarily interested in web-delivered digital technologies. He is currently the director of digital development for a top-50 ranked credit union. He leads a team that is responsible for ensuring credit union member satisfaction and success in digital banking software.
+Dan Collins is a software developer and technical leadership professional primarily interested in web-delivered digital technologies. He is currently the Assistant Vice President of Digital for a top-50 ranked credit union. He leads teams that are responsible for ensuring credit union member satisfaction and success in digital channels.
 
